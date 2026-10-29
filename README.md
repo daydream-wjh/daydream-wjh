@@ -117,7 +117,7 @@
 | --- | --- |
 | [leetcode](https://github.com/daydream-wjh/leetcode) | 202 道力扣题解，按 13 个主题索引，可直接当索引查 |
 | [java](https://github.com/daydream-wjh/java) | Java 基础学习代码（集合、IO、多线程、网络编程、学生管理系统）|
-| [puzzle-game](https://github.com/daydream-wjh/puzzle-game) | 带登录注册的 Swing 4×4 滑块拼图小游戏 |
+| [puzzle-game](https://github.com/daydream-wjh/puzzle-game) | Swing 滑块拼图：3/4/5 三档难度、计时、最佳纪录、撤销、鼠标操作，界面全自绘 |
 | [jedis](https://github.com/daydream-wjh/jedis) | 最小 Jedis 入门 demo |
 
 ---
