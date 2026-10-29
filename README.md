@@ -32,6 +32,14 @@
 | [-Dlib--2.0](https://github.com/daydream-wjh/-Dlib--2.0) | 把几何特征做成 xlsx 数据集，横向对比四个分类器并用 PSO 搜 SVM 超参 |
 | [mmdetection](https://github.com/daydream-wjh/mmdetection) | MMDetection v3.1.0 的原样快照，当作目标检测代码的本地参考 |
 
+## ⚡ 电力业务工具
+
+面向配网调度与自动化岗位做的内部工具，都是「拷一个文件就能跑」的轻量形态。
+
+| 仓库 | 一句话 |
+| --- | --- |
+| [distribution-alarm-query](https://github.com/daydream-wjh/distribution-alarm-query) | 配电网告警快速查询：单文件网页，把主站告警查询压缩成「选时间 → 选表 → 点查询」三步，支持多表筛选、Excel 导出与响应离线解析 |
+
 ## ☕ Java 后端
 
 | 仓库 | 一句话 |
