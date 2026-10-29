@@ -19,9 +19,9 @@
 
 | 仓库 | 一句话 |
 | --- | --- |
-| [qihu](https://github.com/daydream-wjh/qihu) | 上饶麻将 v6 全信息概率引擎 + 弃胡 / 局面分数模型训练工程 |
-| [rlcode](https://github.com/daydream-wjh/rlcode) | 上饶麻将 RL 智能体：gym 环境 + PPO2 + ResNet 策略网络 |
-| [shichuanrl](https://github.com/daydream-wjh/shichuanrl) | 四川麻将 RL 智能体，上饶麻将工程换规则后的分支 |
+| [qihu](https://github.com/daydream-wjh/shangrao-mahjong-v6) | 上饶麻将 v6 全信息概率引擎 + 弃胡 / 局面分数模型训练工程 |
+| [rlcode](https://github.com/daydream-wjh/mahjong-rl-trainer) | 上饶麻将 RL 智能体：gym 环境 + PPO2 + ResNet 策略网络 |
+| [shichuanrl](https://github.com/daydream-wjh/sichuan-mahjong-rl) | 四川麻将 RL 智能体，上饶麻将工程换规则后的分支 |
 
 ## 👁️ 计算机视觉 / 深度学习
 
@@ -45,7 +45,7 @@
 | 仓库 | 一句话 |
 | --- | --- |
 | [shortlink](https://github.com/daydream-wjh/shortlink) | Java 17 + Spring Boot 3 多模块短链服务，网关 / 管理 / 跳转 / 聚合四模块 + Vue3 控制台 |
-| [xuechengplus](https://github.com/daydream-wjh/xuechengplus) | 在线教育微服务群：课程内容、媒资、搜索、认证、网关，配置托管 Nacos |
+| [xuechengplus](https://github.com/daydream-wjh/xuecheng-plus) | 在线教育微服务群：课程内容、媒资、搜索、认证、网关，配置托管 Nacos |
 
 ## 📚 Java 与算法练习
 
@@ -53,7 +53,7 @@
 | --- | --- |
 | [leetcode](https://github.com/daydream-wjh/leetcode) | 按题号命名的力扣题解库，202 道题按 13 个主题索引，可直接查 |
 | [java](https://github.com/daydream-wjh/java) | 2023 年学 Java 的练习快照，按月份 + 主题混放 |
-| [puzzlegame](https://github.com/daydream-wjh/puzzlegame) | 带登录注册的 Swing 4×4 滑块拼图小游戏 |
+| [puzzlegame](https://github.com/daydream-wjh/puzzle-game) | 带登录注册的 Swing 4×4 滑块拼图小游戏 |
 | [jedis](https://github.com/daydream-wjh/jedis) | 最小 Jedis 入门 demo，跑测试前需自备 Redis |
 
 ---
