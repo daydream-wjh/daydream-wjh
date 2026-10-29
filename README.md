@@ -87,6 +87,8 @@
 | [mnist-realtime-recognition](https://github.com/daydream-wjh/mnist-realtime-recognition) | 画板手写 → ResNet18 分类，Flask 一键跑起来 |
 | [dlib-face-expression](https://github.com/daydream-wjh/dlib-face-expression) | 不训练网络，用 Dlib 68 点几何比例喂 KNN 做实时表情识别（2019 小组项目，已获软著）|
 | [dlib-face-expression-v2](https://github.com/daydream-wjh/dlib-face-expression-v2) | 同上 2.0：几何特征做成 xlsx 数据集，横向对比四个分类器 + PSO 搜 SVM 超参 |
+| [cgan-mnist](https://github.com/daydream-wjh/cgan-mnist) | 条件 GAN 生成 MNIST 手写数字，带逐轮生成样例与 Gradio 采样界面 |
+| [brain-hemorrhage-edema-competition](https://github.com/daydream-wjh/brain-hemorrhage-edema-competition) | 脑出血 / 水肿影像数据竞赛：四张数据表的逐字段说明与探索性分析 |
 
 ### ⚡ 电力业务工具
 
@@ -107,6 +109,7 @@
 | --- | --- |
 | [shortlink](https://github.com/daydream-wjh/shortlink) | Java 17 + Spring Boot 3 多模块短链服务：网关 / 管理 / 跳转 / 聚合 + Vue3 控制台 |
 | [xuecheng-plus](https://github.com/daydream-wjh/xuecheng-plus) | 在线教育微服务群：内容、媒资、搜索、认证、网关，配置托管 Nacos |
+| [tlias-smart-learning](https://github.com/daydream-wjh/tlias-smart-learning) | Tlias 智能学习辅助系统：部门/员工管理、JWT 登录、OSS 上传、事务与 AOP 示例 |
 
 ### 📚 Java 与算法练习
 
