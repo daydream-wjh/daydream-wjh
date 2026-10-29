@@ -27,9 +27,9 @@
 
 | 仓库 | 一句话 |
 | --- | --- |
-| [minist](https://github.com/daydream-wjh/minist) | 画板手写 → ResNet18 分类，Flask 一键跑起来的 MNIST 实时演示 |
-| [-Dlib-](https://github.com/daydream-wjh/-Dlib-) | 不训练网络，用 Dlib 68 点几何比例喂 KNN 做实时表情识别（2019 年小组项目，已获软著）|
-| [-Dlib--2.0](https://github.com/daydream-wjh/-Dlib--2.0) | 把几何特征做成 xlsx 数据集，横向对比四个分类器并用 PSO 搜 SVM 超参 |
+| [mnist-realtime-recognition](https://github.com/daydream-wjh/mnist-realtime-recognition) | 画板手写 → ResNet18 分类，Flask 一键跑起来的 MNIST 实时演示 |
+| [dlib-face-expression](https://github.com/daydream-wjh/dlib-face-expression) | 不训练网络，用 Dlib 68 点几何比例喂 KNN 做实时表情识别（2019 年小组项目，已获软著）|
+| [dlib-face-expression-v2](https://github.com/daydream-wjh/dlib-face-expression-v2) | 把几何特征做成 xlsx 数据集，横向对比四个分类器并用 PSO 搜 SVM 超参 |
 | [mmdetection](https://github.com/daydream-wjh/mmdetection) | MMDetection v3.1.0 的原样快照，当作目标检测代码的本地参考 |
 
 ## ⚡ 电力业务工具
